@@ -9,3 +9,4 @@ numpy
 pyproj
 fiona
 rtree
+openpyxl
